@@ -507,7 +507,7 @@ footer p {
 
 /* ====== MEDIA QUERIES ====== */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   /* === NAV === */
   .nav-header {
     flex-direction: column;
