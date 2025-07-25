@@ -507,7 +507,7 @@ footer p {
 
 /* ====== MEDIA QUERIES ====== */
 
-@media screen and (max-width: 1024px) {
+ @media screen and (max-width: 1024px) { 
   /* === NAV === */
   .nav-header {
     flex-direction: column;
@@ -528,7 +528,8 @@ footer p {
 
   /* === HEADER === */
   .container-header {
-    padding: 0 1rem;
+    padding: 0 3rem;
+    padding-top: 50px;
   }
 
   .descripcion {
@@ -610,10 +611,17 @@ footer p {
   }
 
 
-  .proyecto img {
+  /* .proyecto img {
     width: 100%;
     height: auto;
-  }
+  } */
+
+ .proyecto img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+} 
+
 
   /* === CITA === */
   .cita-intermedia {
