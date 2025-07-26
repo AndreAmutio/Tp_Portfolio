@@ -12,8 +12,10 @@ La idea fue armar algo que se adapte bien tanto a pantallas chicas como grandes,
 - Efectos con `box-shadow`, `filter`, y `transition` para hacerlo más dinámico.
 - Header fijo.
 - Secciones simples: sobre mí, proyectos destacados, y contacto.
-- La seccion de proyectos destacados tienen un link que llevan a mini proyectos que tengo en github. 
+- La seccion de proyectos destacados tienen un link que llevan a mini proyectos que tengo en github.
+- Cada sección tiene su linkeo que lleva a navegar la pagina de principio a footer. 
 - Animaciones suaves y detalles visuales para darle un poco de vida.
+- Mi parte favorita de este trabajito, son los hover de los botones 💛 
 - Página deployada 💜
 
 ---
